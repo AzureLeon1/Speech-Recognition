@@ -477,15 +477,15 @@ pip install pyobjc
 
 1. 创建 python3.6 虚拟环境
 
-![image-20190425221456139](/Users/leon/development/PycharmProject/SpeechRecognition/img/Xnip2019-04-25_22-15-11.jpg)
+![image-20190425221456139](./img/Xnip2019-04-25_22-15-11.jpg)
 
 2. 查看 python 环境列表
 
-![](/Users/leon/development/PycharmProject/SpeechRecognition/img/Xnip2019-04-25_22-15-31.jpg)
+![](./img/Xnip2019-04-25_22-15-31.jpg)
 
 3. 切换到新的 python 环境
 
-![](/Users/leon/development/PycharmProject/SpeechRecognition/img/Xnip2019-04-25_22-15-44.jpg)
+![](./img/Xnip2019-04-25_22-15-44.jpg)
 
 ## 2. 运行
 
@@ -501,5 +501,5 @@ pip install pyobjc
 
 2. 在 Terminal 中跳转到 SpeechRecognition 文件夹，执行 `python ./asr.py`
 
-    ![](/Users/leon/development/PycharmProject/SpeechRecognition/img/Xnip2019-04-25_22-26-55.jpg)
+    ![](./img/Xnip2019-04-25_22-26-55.jpg)
 
