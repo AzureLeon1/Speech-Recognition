@@ -321,9 +321,9 @@ Launch IINA and play the video file ` Lillard.mp4`
 
 #### 4.5.2 Screenshot
 
-![](/Users/leon/Desktop/img/Xnip2019-04-25_21-51-17.jpg)
+![](./img/Xnip2019-04-25_21-51-17.jpg)
 
-![](/Users/leon/Desktop/img/Xnip2019-04-25_21-51-47.jpg)
+![](./img/Xnip2019-04-25_21-51-47.jpg)
 
 ### 4.6 Shutdown
 
