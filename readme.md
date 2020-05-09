@@ -4,8 +4,6 @@
 >
 > Automatic Speech Recognition
 >
-> Student Number：1653340
->
 > Name：王亮
 
 ---
